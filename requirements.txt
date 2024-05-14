@@ -1,4 +1,11 @@
+groundingdino
+numpy
 torch
 torchvision
-torchaudio
-numpy
+pytictoc
+matplotlib
+opencv-python-headless
+google-cloud-storage
+pillow
+tqdm
+scikit-learn
