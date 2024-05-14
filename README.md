@@ -56,9 +56,7 @@ performing models to cloud storage using TensorBoard.
 ├── 3_train_pipeline.ipynb
 ├── 4_evaluate.ipynb
 ├── 5_benchmark_notebook.ipynb
-├── Nekrasov, Huang & Van de Voort (2024).pdf
 ├── README.md
-├── correct_classified_images.pdf
 ├── data
 │   ├── test_data
 │   └── train_templates
@@ -68,6 +66,8 @@ performing models to cloud storage using TensorBoard.
 │   ├── dropout_experiment
 │   ├── l2
 │   └── plots
+├── Nekrasov, Huang & Van de Voort (2024).pdf
+├── correct_classified_images.pdf
 ├── misclassified_images.pdf
 └── requirements.txt
 ```
@@ -84,8 +84,8 @@ performing models to cloud storage using TensorBoard.
 | `4_evaluate.ipynb`                        | Evaluation to assess model performance on test data.                                  |
 | `5_benchmark_notebook.ipynb`              | Test results benchmarked against DenseNet169.                                         |
 | `Nekrasov, Huang & Van deVoort (2024).pdf`| The final report of our work.                                                         |
-| `misclassified_images.pdf`                | a PDF report of misclassified images by the best version of the model.                |
 | `correct_classified_images.pdf`           | a PDF report of correctly classified images by the best version of the model.         |
+| `misclassified_images.pdf`                | a PDF report of misclassified images by the best version of the model.                |
 | `data/train_templates`                    | Contains the templates used for creating augmentations.                               |
 | `data/test_data`                          | Contains labelled directories with the cropped real world signs.                      |
 | `metrics/`                                | The metrics for each experimental setup, as discussed in the paper                    |
