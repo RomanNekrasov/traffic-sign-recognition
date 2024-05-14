@@ -99,4 +99,4 @@ performing models to cloud storage using TensorBoard.
 - [Roman Nekrasov](https://github.com/RomanNekrasov/)
 
 ## Additional Resources
-- [Course Description](https://uvt.osiris-student.nl/onderwijscatalogus/extern/examenprogramma/36700/3N300-2022?taal=en)
+- [JADS Course Description](https://uvt.osiris-student.nl/onderwijscatalogus/extern/examenprogramma/36700/3N300-2022?taal=en)
